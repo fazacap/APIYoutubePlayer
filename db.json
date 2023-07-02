@@ -5,7 +5,6 @@
       "email": "fazcap@gmail.com",
       "password": "123456",
       "account": "pro",
-      "maxViewer": 5,
       "video": [
         {
           "title": "Fizzdroid Car Racing Android",
@@ -34,7 +33,6 @@
       "email": "admin@gmail.com",
       "password": "123456",
       "account": "pro",
-      "maxViewer": 5,
       "video": [
                        {
           "title": "Fizzdroid Minecraft Story Mode Season 2",
