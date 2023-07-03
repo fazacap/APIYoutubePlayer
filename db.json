@@ -42,7 +42,27 @@
           "title": "fizzdroid lego ninjago shadow of ronin android gameplay walkthrough",
           "duration": 120
         }
-       ]
+        ]
+    },
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "account": "pro",
+      "video": [
+                       {
+          "title": "5 Best Car Racing Games for Android in 2023 with High Graphics Fizzdroid",
+          "duration": 3
+        },
+        {
+          "title": "5 Newest Offline Adventure Games for Android in 2023 Fizzdroid",
+          "duration": 3
+        },
+        {
+          "title": "5 Best Anime Games for Android with High Graphics in 2023 Fizzdroid",
+          "duration": 3
+        }
+        ]
     }
   ]
 }
