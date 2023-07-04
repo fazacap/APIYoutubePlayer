@@ -18,7 +18,7 @@
           "title": "Fizzdroid Offline Adventure Android",
           "duration": 2
         },
-               {
+        {
           "title": "Fizzdroid Fighting Android",
           "duration": 6
         },
@@ -38,35 +38,20 @@
           "title": "Fizzdroid Minecraft Story Mode Season 2 android gameplay walkthrough",
           "duration": 120
         },
+         {
+          "title": "Fizzdroid Fighting Android",
+          "duration": 6
+        },
+        {
+          "title": "Fizzdroid Best Kids Android",
+          "duration": 5
+        },
         {
           "title": "fizzdroid lego ninjago shadow of ronin android gameplay walkthrough",
           "duration": 60
         }
         ]
-    },
-    {
-      "username": "admin",
-      "email": "admin@gmail.com",
-      "password": "123456",
-      "account": "pro",
-      "video": [
-        {
-          "title": "5 Best Car Racing Games for Android in 2023 with High Graphics Fizzdroid",
-          "duration": 3
-        },
-        {
-          "title": "5 Newest Offline Adventure Games for Android in 2023 Fizzdroid",
-          "duration": 3
-        },
-        {
-          "title": "10 Best FPS Shooting Games for Android in 2023 Fizzdroid",
-          "duration": 3
-        },
-        {
-          "title": "5 Best Anime Games for Android with High Graphics in 2023 Fizzdroid",
-          "duration": 3
-        }
-        ]
     }
+   
   ]
 }
