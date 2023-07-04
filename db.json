@@ -7,22 +7,28 @@
       "account": "pro",
       "video": [
         {
-          "title": "Fizzdroid Car Racing Android",
-          "duration": 3
-        },
-        {
-          "title": "Fizzdroid Best Anime Android",
+          "channel":"Fizzdroid",
+          "title": "Car Racing Android",
+          "thumbnail": "https://i.ytimg.com/vi/G6hDQUzb-0Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGd2k4XhQiarPcH_pKPopyXqBIvw",
           "duration": 2
         },
         {
-          "title": "Fizzdroid Offline Adventure Android",
+          "channel":"Fizzdroid",
+          "title": "Best Anime Android",
           "duration": 2
         },
         {
-          "title": "Fizzdroid Fighting Android",
+          "channel":"Fizzdroid",
+          "title": "Offline Adventure Android",
+          "duration": 2
+        },
+        {
+          "channel":"Fizzdroid",
+          "title": "Fighting Android",
           "duration": 6
         },
         {
+          "channel":"Fizzdroid",
           "title": "Fizzdroid Best Kids Android",
           "duration": 5
         }
