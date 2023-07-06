@@ -45,6 +45,22 @@
       "account": "pro",
       "video": [
           {
+          "title": "GeniusLakon Inilah momen ketika mobil lu paksa buat naik ke puncak gunung",
+          "duration": 1
+        },
+         {
+          "title": "GeniusLakon ketika lu ingin dapat pacar, tapi yang datang tidak terduga",
+          "duration": 1
+        }
+        ]
+    },
+     {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "account": "pro",
+      "video": [
+          {
           "title": "Fizzdroid Minecraft Story Mode Season 2 android gameplay walkthrough",
           "duration": 60
         },
