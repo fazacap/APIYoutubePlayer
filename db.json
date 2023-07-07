@@ -39,8 +39,8 @@
        ]
     },
      {
-      "username": "admin",
-      "email": "admin@gmail.com",
+      "username": "viewer",
+      "email": "viewer@gmail.com",
       "password": "123456",
       "account": "pro",
       "video": [
