@@ -1,25 +1,5 @@
 {
   "user": [
-    {
-      "username": "fazcap",
-      "email": "fazcap@gmail.com",
-      "password": "123456",
-      "account": "pro",
-      "video": [
-        {
-          "channel":"Fizzdroid",
-          "title": "Fighting Android",
-          "thumbnail": "",
-          "duration": 6
-        },
-        {
-          "channel":"Fizzdroid",
-          "title": "Fizzdroid Best Kids Android",
-          "thumbnail": "",
-          "duration": 5
-        }
-       ]
-    },
      {
       "username": "viewer",
       "email": "viewer@gmail.com",
